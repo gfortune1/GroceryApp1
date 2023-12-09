@@ -1,7 +1,7 @@
 const products = [
   {
     _id: "1",
-    name: "pawpaw",
+    name: "papaya",
     image: "https://miro.medium.com/v2/resize:fit:640/0*8UIwgR7Ty5r-RWD3.jpg",
     description: "This is the best type of pawpaw for its health benefits.",
     price: 20,
