@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "learn-app",
+    "slug": "learn-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/favicon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/favicon.png",
+        "backgroundColor": "#488600"
+      },
+      "package": "com.dennisngugiwambui.learnapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "27b667e4-2890-453d-b10a-0c809bc6c7c1"
+      }
+    },
+    "owner": "dennisngugiwambui"
+  }
+}
